@@ -1,0 +1,12 @@
+/** @file mainpage.dox
+ *  @author Jordan Kochavi, Chandler Jones, Jenny Verheul
+ *  @copyright (c) 2020 by Jordan Kochavi, licensed CC-BY-NC-SA 3.0
+ *  @mainpage
+ *
+ *  @section s_intro Introduction
+ *  This project contains a module that communicates via serial with a user, 
+ *  who then provdides a single positive integer. This integer is used by the 
+ *  program to thus run a simplified motor simulation, outputting the speed of 
+ *  the motor via PWM on a single pin. The speed is designated by % Duty Cycle.
+ *
+ */
